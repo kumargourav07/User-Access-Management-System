@@ -21,3 +21,6 @@ User-Access-Management-System/
 ├── .settings/
 ├── pom.xml
 └── README.md
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
